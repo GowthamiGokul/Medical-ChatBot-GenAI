@@ -1,5 +1,5 @@
 
-# End-to-end-Medical-Chatbot-using-Llama2
+# A Generative AI Health and Wellness Chatbot
 
 ## Steps to Run the Project
 
