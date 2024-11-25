@@ -1,0 +1,52 @@
+1. Llama 2 Model
+Model Name:
+llama-2-7b-chat.ggmlv3.q4_0.bin
+
+Description:
+Llama 2 is an advanced natural language processing (NLP) model designed for generating coherent and contextually aware responses. This model is specifically fine-tuned for chat-based applications, making it suitable for use in AI-driven chatbots and other interactive applications.
+
+Download Link:
+https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
+
+How to Download:
+Visit the Hugging Face page using the link above.
+Scroll to find the file: llama-2-7b-chat.ggmlv3.q4_0.bin.
+Click on the file name to start the download.
+Save the file to your designated directory for model files.
+Usage:
+This model is compatible with frameworks like Langchain and LlamaIndex.
+Ensure you have the appropriate software and dependencies installed to load and utilize the model.
+2. BioBERT Model
+Model Name:
+biobert-base-cased-v1.1
+
+Description:
+BioBERT is a pre-trained biomedical language representation model optimized for understanding biomedical and clinical text. It is particularly effective for tasks such as question answering, named entity recognition (NER), and relation extraction in the biomedical domain.
+
+Download Link:
+https://huggingface.co/dmis-lab/biobert-base-cased-v1.1
+
+How to Download:
+Visit the Hugging Face page using the link above.
+Locate the biobert-base-cased-v1.1 file.
+Download the model files and save them in your local directory.
+Usage:
+Ideal for projects requiring biomedical text analysis or health-related chatbot functionalities.
+Ensure to integrate the model into your pipeline for optimal results.
+3. ClinicalBERT Model
+Model Name:
+Bio_ClinicalBERT
+
+Description:
+ClinicalBERT is a fine-tuned version of BERT (Bidirectional Encoder Representations from Transformers) designed for clinical applications. It performs well with clinical notes and text, making it suitable for healthcare-related tasks, such as extracting information from medical documents and providing non-diagnostic recommendations.
+
+Download Link:
+https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT
+
+How to Download:
+Visit the Hugging Face page using the link above.
+Locate the Bio_ClinicalBERT file.
+Download the model files and save them in your preferred directory.
+Usage:
+Useful for healthcare chatbot systems and clinical data processing.
+Ensure proper setup and testing to utilize the model effectively in your applications.
