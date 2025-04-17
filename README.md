@@ -49,6 +49,12 @@ CAREPAL is a generative AI-powered chatbot that provides health and wellness rec
 - Delivered responses with < 2s latency
 - Provided personalized advice based on user inputs (age, lifestyle, concerns)
 - Adhered to public health standards without compromising on usability
+  
+![image](https://github.iu.edu/dhyjoshi/Medical-ChatBot-GenAI/assets/28068/58ca62f2-dcfa-4a69-b0cc-636c7c3e9ca6)
+
+![image](https://github.iu.edu/dhyjoshi/Medical-ChatBot-GenAI/assets/28068/527aaf87-b93d-4d68-99f5-c6473dfc4d6c)
+
+![image](https://github.iu.edu/dhyjoshi/Medical-ChatBot-GenAI/assets/28068/cb0d07e9-ee0c-4a99-bebe-537e886754fa)
 
 
 ## 🧱 Application Architecture
