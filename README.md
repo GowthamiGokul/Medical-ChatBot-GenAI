@@ -17,7 +17,7 @@ CAREPAL is a generative AI-powered chatbot that provides health and wellness rec
 | Embeddings     | OpenAI Embedding Models              |
 | Vector DB      | Pinecone                             |
 | NLP Libraries  | SpaCy, NLTK                          |
-| Deployment     | Localhost / Streamlit (optional)     |
+| Deployment     | Localhost / Streamlit      |
 
 
 ## 📚 Dataset Sources
