@@ -3,12 +3,8 @@
 ## 🧠 Problem Statement
 Many individuals struggle to navigate overwhelming and often conflicting online health information. CAREPAL addresses this by delivering **personalized, evidence-based wellness guidance** through a chatbot that simplifies medical content into actionable lifestyle recommendations.
 
---
-
 ## 🚀 Project Overview
 CAREPAL is a generative AI-powered chatbot that provides health and wellness recommendations based on reliable guidelines from the **WHO**, **CDC**, and **US Department of Health Services**. It uses the **Llama 2 language model** and semantic search to deliver context-aware, non-diagnostic advice.
-
---
 
 ## Steps to Run the Project
 
@@ -43,8 +39,6 @@ llama-2-7b-chat.ggmlv3.q4_0.bin
 ## From the following link:
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 
-```
-
 ## Description
 This project demonstrates the creation of an end-to-end medical chatbot using Llama2. The chatbot leverages advanced language models to retrieve and answer medical queries based on contextually relevant data.
 
@@ -58,8 +52,6 @@ This project demonstrates the creation of an end-to-end medical chatbot using Ll
 1. Follow the steps above to set up the environment.
 2. Run the project script as described in the project documentation or scripts folder.
 
---
-
 ## 🛠️ Tech Stack
 
 | Layer           | Technologies Used                    |
@@ -72,7 +64,6 @@ This project demonstrates the creation of an end-to-end medical chatbot using Ll
 | NLP Libraries  | SpaCy, NLTK                          |
 | Deployment     | Localhost / Streamlit (optional)     |
 
----
 
 ## 📚 Dataset Sources
 
@@ -81,7 +72,6 @@ This project demonstrates the creation of an end-to-end medical chatbot using Ll
 - Dietary Guidelines for Americans 2020–2025
 - Curated datasets from public health repositories
 
---
 
 ## 🧩 Approach Used
 
@@ -91,7 +81,6 @@ This project demonstrates the creation of an end-to-end medical chatbot using Ll
 4. **Query Resolution**: Retrieved relevant context and fed it into Llama 2 for response generation.
 5. **Integration**: Combined all parts into a Flask backend with a React frontend UI.
 
---
 
 ## 🧠 Model Information
 
@@ -100,7 +89,6 @@ This project demonstrates the creation of an end-to-end medical chatbot using Ll
 - Real-time, RAG-enabled conversational response generation
 - Non-diagnostic, personalized wellness responses
 
---
 
 ## 📊 Application Results
 
@@ -108,13 +96,11 @@ This project demonstrates the creation of an end-to-end medical chatbot using Ll
 - Provided personalized advice based on user inputs (age, lifestyle, concerns)
 - Adhered to public health standards without compromising on usability
 
---
 
 ## 🧱 Application Architecture
 
 > 📌 *Paste architecture diagram image here*
 
---
 
 ## 📈 Future Enhancements
 
@@ -123,7 +109,6 @@ This project demonstrates the creation of an end-to-end medical chatbot using Ll
 - Expansion of data sources
 - Real-time sentiment adaptation
 
---
 
 ## 👨‍💻 Authors
 
