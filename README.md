@@ -3,7 +3,6 @@
 ## 🧠 Problem Statement
 Many individuals struggle to navigate overwhelming and often conflicting online health information. CAREPAL addresses this by delivering **personalized, evidence-based wellness guidance** through a chatbot that simplifies medical content into actionable lifestyle recommendations.
 
----
 
 ## 🚀 Project Overview
 CAREPAL is a generative AI-powered chatbot that provides health and wellness recommendations based on reliable guidelines from the **WHO**, **CDC**, and **US Department of Health Services**. It uses the **Llama 2 language model** and semantic search to deliver context-aware, non-diagnostic advice.
